@@ -1,6 +1,6 @@
-# EduLife v2.0
+# EduLife
 
-## Fresh Build - Complete Educational Platform
+## A Complete Educational Platform
 
 ### Overview
 EduLife v2.0 is a comprehensive, inclusive educational platform with:
@@ -68,12 +68,12 @@ python -m uvicorn backend.main:app --reload --host 127.0.0.1 --port 8000
 - ReDoc: https://edulife.onrender.com/redoc
 
 ### Current Status
-✅ Database models created
-✅ Authentication system ready
-✅ Schemas defined
-✅ Main app structure complete
+Database models created
+Authentication system ready
+Schemas defined
+Main app structure complete
 
-🚧 In Progress:
+In Progress:
 - Admin API endpoints
 - Teacher API endpoints
 - Student API endpoints
