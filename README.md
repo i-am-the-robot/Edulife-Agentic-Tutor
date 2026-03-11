@@ -13,20 +13,20 @@ EduLife v2.0 is a comprehensive, inclusive educational platform with:
 ```
 EduLife/
 ├── backend/
-│   ├── .env                 # Environment variables (Groq API key)
-│   ├── database.py          # Database configuration
-│   ├── models.py            # SQLModel database models (7 tables)
-│   ├── schemas.py           # Pydantic request/response schemas
-│   ├── auth.py              # Authentication & authorization
-│   ├── utils.py             # Utility functions
-│   ├── main.py              # FastAPI application
-│   ├── admin_api.py         # Admin endpoints (TODO)
-│   ├── teacher_api.py       # Teacher endpoints (TODO)
-│   ├── student_api.py       # Student endpoints (TODO)
-│   └── chat_api.py          # AI chat endpoints (TODO)
-├── .venv/                   # Python virtual environment
-├── database.db              # SQLite database
-└── start_backend.bat        # Start server script
+│   ├── .env                 
+│   ├── database.py         
+│   ├── models.py           
+│   ├── schemas.py         
+│   ├── auth.py             
+│   ├── utils.py           
+│   ├── main.py            
+│   ├── admin_api.py        
+│   ├── teacher_api.py      
+│   ├── student_api.py       
+│   └── chat_api.py       
+├── .venv/               
+├── database.db             
+└── start_backend.bat      
 ```
 
 ### Database Models
